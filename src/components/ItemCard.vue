@@ -68,7 +68,7 @@ export default {
 <style scoped>
 .card {
   width: 18rem;
-  height: 27rem;
+  height: 26rem;
   border-radius: 5%;
   filter: drop-shadow(0 0 0.4rem #a7a7a7);
   background-size: 100%;
